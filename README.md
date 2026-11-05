@@ -76,4 +76,4 @@ To create an interactive analytics layer that:
 
 ## 📸 **6. Dashboard Preview**
 
-![image alt](https://github.com/MohanS-2009/Augmented-Reality-Campaign-Data/blob/main/Flam%20Ar%20Campaign%20Data.jpg)
+![image alt](https://github.com/MohanS-2009/Augmented-Reality-Campaign-Data/blob/main/Flam%20Ar%20Campaign%20Data.jpg) 
